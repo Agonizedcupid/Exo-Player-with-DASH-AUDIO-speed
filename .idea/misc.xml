@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_shape_oval.xml" value="0.226" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.34739583333333335" />
         <entry key="app/src/main/res/layout/activity_player.xml" value="0.34739583333333335" />
+        <entry key="app/src/main/res/layout/custom_controls.xml" value="0.34739583333333335" />
         <entry key="app/src/main/res/layout/fragment_folder.xml" value="0.34739583333333335" />
         <entry key="app/src/main/res/layout/fragment_video.xml" value="0.34739583333333335" />
         <entry key="app/src/main/res/layout/layout_single_folder.xml" value="0.34739583333333335" />
