@@ -3,15 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.149" />
+        <entry key="app/src/main/res/drawable/ic_baseline_forward_10_24.xml" value="0.228" />
+        <entry key="app/src/main/res/drawable/ic_baseline_fullscreen_24.xml" value="0.228" />
+        <entry key="app/src/main/res/drawable/ic_baseline_replay_10_24.xml" value="0.228" />
+        <entry key="app/src/main/res/drawable/ic_baseline_screen_rotation_24.xml" value="0.228" />
+        <entry key="app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.228" />
         <entry key="app/src/main/res/drawable/ic_shape_oval.xml" value="0.226" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.34739583333333335" />
         <entry key="app/src/main/res/layout/activity_player.xml" value="0.34739583333333335" />
+        <entry key="app/src/main/res/layout/activity_test.xml" value="0.35625" />
         <entry key="app/src/main/res/layout/custom_controls.xml" value="0.34739583333333335" />
+        <entry key="app/src/main/res/layout/exo_track_selection_dialog.xml" value="1.4539473684210527" />
         <entry key="app/src/main/res/layout/fragment_folder.xml" value="0.34739583333333335" />
         <entry key="app/src/main/res/layout/fragment_video.xml" value="0.34739583333333335" />
         <entry key="app/src/main/res/layout/layout_single_folder.xml" value="0.34739583333333335" />
         <entry key="app/src/main/res/layout/layout_video_list.xml" value="0.34739583333333335" />
         <entry key="app/src/main/res/layout/single_video_list_row.xml" value="0.34205128205128205" />
+        <entry key="app/src/main/res/layout/track_selection_dialog.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/ustom_controls.xml" value="0.35625" />
       </map>
     </option>
   </component>
